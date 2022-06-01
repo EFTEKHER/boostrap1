@@ -11,3 +11,21 @@
 .col{
     border: 2px solid black;
 }
+.col-1{
+border: 2px solid bisque;
+}
+.col-4
+{
+    border: 2px solid blue;
+}
+.col-8{
+    border: 2px solid black;
+}
+.col-5{
+    border: 2px solid orange;
+
+}
+.col-7
+{
+    border: 2px solid red;
+}
